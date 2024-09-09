@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class testeTecnico {
+//QUESTÃO 1//
+
+public class questao1 {
     public static void main(String[] args) throws Exception {
 
         Scanner scanner = new Scanner(System.in);
